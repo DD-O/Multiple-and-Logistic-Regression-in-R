@@ -1,0 +1,2 @@
+# Multiple-and-Logistic-Regression-in-R
+DataCamp Course Description: In this course you'll take your skills with simple linear regression to the next level. By learning multiple and logistic regression techniques you will gain the skills to model and predict both numeric and categorical outcomes using multiple input variables. You'll also learn how to fit, visualize, and interpret these models. Then you'll apply your skills to learn about Italian restaurants in New York City!
